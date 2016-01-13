@@ -1,0 +1,3 @@
+---
+profile::ntp::servers:
+  - 'us.pool.ntp.org'
